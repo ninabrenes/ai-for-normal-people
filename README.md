@@ -22,6 +22,10 @@ aside from being a goofy weirdo, i'm a self-learner, systems thinker, and curren
 
 ## the complete guide
 
+### getting started
+- [how to learn anything](how-to-learn-anything.md)
+- [ai basics](ai-basics.md)
+
 ### phase 1: foundation
 - [level 0: what actually happens when you press send](level-0.md)
 - [level 1: how ai actually works](level-1.md)
