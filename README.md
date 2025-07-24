@@ -1,96 +1,72 @@
-# AI for Normal People
-*A Human-Centered Guide to Understanding and Using AI*
+# ai for normal people
+*a human-centered guide to understanding and using ai*
 
-By Nina Brenes | First Edition
+by nina brenes | creator of [ninagpt: field notes from my ai journey](https://ninaverse.kit.com/36228eea47)
 
-## About This Guide
+## what you'll learn
 
-Whether you found this through my newsletter or discovered it here on GitHub, this comprehensive guide will take you from AI anxiety to AI competence through 20 practical levels designed for non-technical people.
+transform from ai anxiety to ai competence through 20 practical levels designed for non-technical people who want to stay human-centered.
 
-## How to Use This Guide
+## the complete guide
 
-This guide is designed to be read sequentially. Each level builds on the previous ones.
+### phase 1: foundation
+- [level 0: what actually happens when you press send](level-0.md)
+- [level 1: how ai actually works](level-1.md)
+- [level 2: where ai gets its knowledge](level-2.md)
+- [level 3: traditional programming vs ai](level-3.md)
+- [level 4: ai types and what they actually do](level-4.md)
+- [level 5: ai you're already using successfully](level-5.md)
+- [level 6: setting realistic expectations](level-6.md)
 
-**For best results:**
-→ Read levels in order  
-→ Use the flashcards provided in each level  
-→ Try the exercises in each "Your Turn" section  
-→ Take your time with the concepts - understanding matters more than speed
+### phase 2: first contact
+- [level 7: your first quality ai conversation](level-7.md)
+- [level 8: spotting ai-generated fluff](level-8.md)
+- [level 9: the art of getting authentic responses](level-9.md)
+- [level 10: building your ai quality system](level-10.md)
 
-## Table of Contents
+### phase 3: building skills
+- [level 11: the 5 essential ai skills](level-11.md)
+- [level 12: when ai helps vs when it doesn't](level-12.md)
+- [level 13: practical ai workflows](level-13.md)
+- [level 14: troubleshooting & ai safety](level-14.md)
+- [level 15: advanced conversation techniques](level-15.md)
 
-### Foundation Levels
-Understanding how AI actually works and what it can do for you.
+### phase 4: integration
+- [level 16: building your personal ai system](level-16.md)
+- [level 17: ai across life domains](level-17.md)
+- [level 18: collaboration and community](level-18.md)
 
-- [Learning Foundations: How to Learn Anything](learning-foundations.md)
-- [AI Foundations: Understanding the AI World](ai-foundations.md)
-- [Getting Started: Your AI Journey Starts Here](getting-started.md)
-- [Level 0: What Actually Happens When You Press Send](level-0.md)
-- [Level 1: How AI Actually Works](level-1.md)
-- [Level 3: Traditional Programming vs AI](level-3.md)
-- [Level 4: AI Types and What They Do](level-4.md)
-- [Level 5: AI You're Already Using Successfully](level-5.md)
-- [Level 6: Setting Realistic Expectations](level-6.md)
+### phase 5: growing forward
+- [level 19: staying human-centered](level-19.md)
+- [level 20: lifelong learning in the ai age](level-20.md)
 
-### First Contact Levels
-Having your first quality conversations with AI and building practical skills.
+## how to use this guide
 
-- [Level 7: Your First Quality AI Conversation](level-7.md)
-- [Level 8: Spotting AI-Generated Fluff](level-8.md)
-- [Level 9: The Art of Getting Authentic Responses](level-9.md)
-- [Level 10: Building Your AI Quality System](level-10.md)
+read sequentially - each level builds on previous ones. use the flashcards provided in each level and try the exercises in the "your turn" sections.
 
-### Building Skills Levels
-Developing advanced competencies for consistent, reliable AI use.
+for digital flashcards, download the anki app and create cards from the provided content.
 
-- [Level 11: The 5 Essential AI Skills](level-11.md)
-- [Level 12: When AI Helps vs When It Doesn't](level-12.md)
-- [Level 13: Practical AI Workflows](level-13.md)
-- [Level 14: Troubleshooting & AI Safety](level-14.md)
-- [Level 15: Advanced Conversation Techniques](level-15.md)
+## stay connected
 
-### Integration Levels
-Building your personal AI system and applying it across life domains.
+join [ninagpt: field notes from my ai journey](https://ninaverse.kit.com/36228eea47) for:
+- new content and guide updates
+- weekly ai insights for non-technical people
+- conversations with other human-centered learners
 
-- [Level 16: Building Your Personal AI System](level-16.md)
-- [Level 17: AI Across Life Domains](level-17.md)
-- [Level 18: Collaboration and Community](level-18.md)
+## support this work
 
-### Growing Forward Levels
-Maintaining your human-centered approach while continuing to learn and contribute.
+if this guide helped you, consider [buying me a coffee](https://buymeacoffee.com/ninabrenes)
 
-- [Level 19: Staying Human-Centered](level-19.md)
-- [Level 20: Lifelong Learning in the AI Age](level-20.md)
+## about
 
-## Stay Connected
+this guide represents everything i wish i'd known when starting my ai journey as a non-technical person. every concept comes from real experience learning to work with ai while staying human-centered.
 
-**Join my newsletter** for updates when new content is added:  
-→ [Subscribe to Nina's Newsletter](https://ninaverse.kit.com/36228eea47)
+this is version 1.0 - i'll update it over time as ai evolves and as i learn more.
 
-Get weekly insights about AI, learning, and staying human-centered in a tech-driven world.
+## share it
 
-## Version Notes
-
-**First Edition** - July 2025  
-This is the initial complete version. I plan to update it as AI technology evolves and as I learn more about teaching these concepts effectively.
-
-## Support This Work
-
-If this guide helped you:  
-→ [Support the work](https://buymeacoffee.com/ninabrenes)  
-→ Share it with someone who could benefit  
-→ Star this repository to help others find it
-
-## About the Author
-
-Nina is a non-technical person who learned AI from scratch and now teaches others through a human-centered approach. This guide represents everything she wishes she'd known when starting her AI journey.
-
-Visit: [ninabrenes.com](https://ninabrenes.com)
-
-## License
-
-This work is licensed under Creative Commons Attribution 4.0. Share freely with attribution.
+feel free to share this guide with anyone who might benefit. the world needs more people who understand both what ai can do and what humans do best.
 
 ---
 
-**Star this repository if you find it helpful →**
+*star this repository if you find it helpful*
