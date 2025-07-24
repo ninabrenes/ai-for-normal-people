@@ -1,11 +1,24 @@
 # ai for normal people
 *a human-centered guide to understanding and using ai*
 
-by nina brenes | creator of [ninagpt: field notes from my ai journey](https://ninaverse.kit.com/36228eea47)
+by nina brenes
 
-## what you'll learn
+## about this guide
 
-transform from ai anxiety to ai competence through 20 practical levels designed for non-technical people who want to stay human-centered.
+whether you found this through my newsletter [ninagpt: field notes from my ai journey](https://ninaverse.kit.com/36228eea47) or stumbled upon it here on github, this guide will take you from ai anxiety to ai competence.
+
+this is version 1.0 - i'll be updating it as ai evolves and as i learn new things.
+
+## who am i?
+
+aside from being a goofy weirdo, i'm a self-learner, systems thinker, and currently working as an ai operations consultant. i'm also exploring writing as therapy. this guide represents everything i wish i'd known when i started learning ai as a non-technical person.
+
+## how to use this guide
+
+→ read sequentially - each level builds on previous ones  
+→ use the flashcards provided in each level (download [anki](https://ankiweb.net/) for mobile/desktop or go analog)  
+→ try the "your turn" exercises  
+→ take your time - understanding matters more than speed  
 
 ## the complete guide
 
@@ -14,7 +27,7 @@ transform from ai anxiety to ai competence through 20 practical levels designed 
 - [level 1: how ai actually works](level-1.md)
 - [level 2: where ai gets its knowledge](level-2.md)
 - [level 3: traditional programming vs ai](level-3.md)
-- [level 4: ai types and what they actually do](level-4.md)
+- [level 4: ai types and what they do](level-4.md)
 - [level 5: ai you're already using successfully](level-5.md)
 - [level 6: setting realistic expectations](level-6.md)
 
@@ -40,33 +53,29 @@ transform from ai anxiety to ai competence through 20 practical levels designed 
 - [level 19: staying human-centered](level-19.md)
 - [level 20: lifelong learning in the ai age](level-20.md)
 
-## how to use this guide
+## learning tools
 
-read sequentially - each level builds on previous ones. use the flashcards provided in each level and try the exercises in the "your turn" sections.
-
-for digital flashcards, download the anki app and create cards from the provided content.
+→ flashcards: download [anki](https://ankiweb.net/) for spaced repetition or create physical cards  
+→ active recall: explain concepts to someone else without looking  
+→ deliberate practice: apply skills to real challenges  
+→ metacognition: notice how your thinking about ai changes  
 
 ## stay connected
 
 join [ninagpt: field notes from my ai journey](https://ninaverse.kit.com/36228eea47) for:
 - new content and guide updates
 - weekly ai insights for non-technical people
-- conversations with other human-centered learners
+- community discussions with other learners
 
 ## support this work
 
 if this guide helped you, consider [buying me a coffee](https://buymeacoffee.com/ninabrenes)
 
-## about
+## license
 
-this guide represents everything i wish i'd known when starting my ai journey as a non-technical person. every concept comes from real experience learning to work with ai while staying human-centered.
-
-this is version 1.0 - i'll update it over time as ai evolves and as i learn more.
-
-## share it
-
-feel free to share this guide with anyone who might benefit. the world needs more people who understand both what ai can do and what humans do best.
+this work is licensed under creative commons. share freely!
 
 ---
 
-*star this repository if you find it helpful*
+→ star this repository if you find it helpful  
+→ version 1.0 | updated regularly as ai evolves
