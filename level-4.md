@@ -141,9 +141,6 @@ I don't expect one tool to do everything well. It's like having different expert
 **Front:** What are the three main AI specializations?  
 **Back:** Large Language Models (text specialists), Computer Vision AI (image specialists), Audio AI (sound specialists)
 
-**Front:** Why can't [ChatGPT](https://chatgpt.com) create images?  
-**Back:** [ChatGPT](https://chatgpt.com) is a Large Language Model trained specifically on text patterns - it learned how to work with words, not visual patterns
-
 **Front:** What's the difference between generative and recognition AI?  
 **Back:** Recognition AI understands existing content, generative AI creates brand new content - most modern AI can do both
 
