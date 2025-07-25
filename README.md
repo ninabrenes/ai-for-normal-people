@@ -69,7 +69,6 @@ aside from being a goofy weirdo, i'm a self-learner, systems thinker, and curren
 join [ninagpt: field notes from my ai journey](https://ninaverse.kit.com/36228eea47) for:
 - new content and guide updates
 - weekly ai insights for non-technical people
-- community discussions with other learners
 
 ## support this work
 
