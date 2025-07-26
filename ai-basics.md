@@ -91,14 +91,18 @@ Think of AI like a toolkit where different technologies combine to create the to
 
 ```mermaid
 graph TD
-    A[🤖 ARTIFICIAL INTELLIGENCE<br/>Any computer that can do tasks requiring intelligence] --> B[MACHINE LEARNING<br/>Learning from examples, not rules]
-    B --> C[DEEP LEARNING<br/>Sophisticated pattern recognition]
-    C --> D[LARGE LANGUAGE MODELS<br/>Text specialists]
-    C --> E[COMPUTER VISION AI<br/>Image specialists]
-    C --> F[AUDIO AI<br/>Sound specialists]
-    D --> G[ChatGPT, Claude]
-    E --> H[DALL-E, Midjourney]
-    F --> I[Siri, Mubert]
+    subgraph AI[AI Technologies]
+        ML[Machine Learning<br/>Learning from examples] --> Text[Text AI<br/>ChatGPT, Claude]
+        ML --> Vision[Vision AI<br/>DALL-E, Midjourney]
+        ML --> Audio[Audio AI<br/>Siri, Transcription]
+        ML --> Multi[Multimodal AI<br/>GPT-4o, Gemini]
+    end
+    
+    style ML fill:#6a8280
+    style Text fill:#efc5b9
+    style Vision fill:#efc5b9
+    style Audio fill:#efc5b9
+    style Multi fill:#c8d9e6
 ```
 
 ### the foundation technologies
