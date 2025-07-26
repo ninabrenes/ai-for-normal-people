@@ -26,7 +26,7 @@ aside from being a goofy weirdo, i'm a self-learner, systems thinker, and curren
 - [how to learn anything](how-to-learn-anything.md)
 - [ai basics](ai-basics.md)
 
-### phase 1: foundation (8 levels)
+### phase 1: foundation (9 levels)
 *build solid understanding of how ai works*
 
 - [level 1: what happens when you press send](level-1.md)
@@ -36,8 +36,9 @@ aside from being a goofy weirdo, i'm a self-learner, systems thinker, and curren
 - [level 5: context windows and memory limitations](level-5.md)
 - [level 6: ai types and specializations](level-6.md)
 - [level 7: ai you're already using successfully](level-7.md)
-- [level 8: choosing the right ai tool](level-8.md)
-
+- [level 8: mapping your workflows before adding ai](level-8.md)
+- [level 9: choosing the right ai tool](level-9.md)
+  
 ### phase 2: first contact (4 levels)
 *your first ai conversations*
 
