@@ -47,10 +47,20 @@ graph TD
     Methods --> Discipline
     Discipline --> Results[Learn Anything]
     
-    style Brain fill:#6a8280
-    style Methods fill:#efc5b9
-    style Discipline fill:#c8d9e6
-    style Results fill:#f2e5e1
+    style Brain fill:#0b1643,color:#ffffff
+    style Timing fill:#0b1643,color:#ffffff
+    style Energy fill:#0b1643,color:#ffffff
+    style Test fill:#6a8280,color:#ffffff
+    style Space fill:#6a8280,color:#ffffff
+    style Practice fill:#6a8280,color:#ffffff
+    style Think fill:#6a8280,color:#ffffff
+    style Start fill:#efc5b9,color:#0b1643
+    style Momentum fill:#efc5b9,color:#0b1643
+    style Habits fill:#efc5b9,color:#0b1643
+    style Results fill:#d4c9d2,color:#0b1643
+    style Biology fill:#f2e5e1,color:#0b1643
+    style Methods fill:#c8d9e6,color:#0b1643
+    style Discipline fill:#f2e5e1,color:#0b1643
 ```
 
 ## how your brain actually works
@@ -78,10 +88,11 @@ graph LR
         Rest --> Start
     end
     
-    style Start fill:#f2e5e1
-    style Peak fill:#6a8280
-    style Decline fill:#efc5b9
-    style Rest fill:#c8d9e6
+    style Start fill:#efc5b9,color:#0b1643
+    style Peak fill:#6a8280,color:#ffffff
+    style Decline fill:#d4c9d2,color:#0b1643
+    style Rest fill:#c8d9e6,color:#0b1643
+    style Cycle fill:#f2e5e1,color:#0b1643
 ```
 
 **Simple rule**: Work hard for 90 minutes, rest for 20 minutes, repeat.
@@ -99,10 +110,11 @@ graph TD
         D[🐬 Flexible Dolphins 10%<br/>Superpower: Varies daily<br/>Best for: Short AI sessions]
     end
     
-    style L fill:#efc5b9
-    style B fill:#6a8280
-    style W fill:#c8d9e6
-    style D fill:#f2e5e1
+    style L fill:#0b1643,color:#ffffff
+    style B fill:#6a8280,color:#ffffff
+    style W fill:#efc5b9,color:#0b1643
+    style D fill:#d4c9d2,color:#0b1643
+    style Chronotypes fill:#f2e5e1,color:#0b1643
 ```
 
 **Track yourself for one week**: Rate your alertness every 2 hours (1-10). You'll see your pattern.
@@ -124,10 +136,11 @@ graph LR
     
     M --> F --> O --> L --> M
     
-    style M fill:#f2e5e1
-    style F fill:#efc5b9
-    style O fill:#6a8280
-    style L fill:#c8d9e6
+    style M fill:#0b1643,color:#ffffff
+    style F fill:#6a8280,color:#ffffff
+    style O fill:#efc5b9,color:#0b1643
+    style L fill:#d4c9d2,color:#0b1643
+    style Cycle fill:#f2e5e1,color:#0b1643
 ```
 
 **For AI learning**:
@@ -154,11 +167,15 @@ graph TD
     D --> D1[Practice weak areas<br/>Focus on struggles]
     E --> E1[Think about thinking<br/>Ask what's confusing]
     
-    style A fill:#6a8280
-    style B1 fill:#efc5b9
-    style C1 fill:#efc5b9
-    style D1 fill:#efc5b9
-    style E1 fill:#efc5b9
+    style A fill:#0b1643,color:#ffffff
+    style B fill:#6a8280,color:#ffffff
+    style C fill:#6a8280,color:#ffffff
+    style D fill:#6a8280,color:#ffffff
+    style E fill:#6a8280,color:#ffffff
+    style B1 fill:#efc5b9,color:#0b1643
+    style C1 fill:#efc5b9,color:#0b1643
+    style D1 fill:#efc5b9,color:#0b1643
+    style E1 fill:#efc5b9,color:#0b1643
 ```
 
 ## troubleshooting common learning problems
