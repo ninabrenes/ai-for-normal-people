@@ -18,7 +18,7 @@ aside from being a goofy weirdo, i'm a self-learner, systems thinker, and curren
 → read sequentially - each level builds on previous ones  
 → use the flashcards provided in each level (download [anki](https://ankiweb.net/) for mobile/desktop or go analog)  
 → try the "your turn" exercises  
-→ take your time - understanding matters more than speed  
+→ take your time - understanding matters more than speed
 
 ## the complete guide
 
@@ -26,35 +26,44 @@ aside from being a goofy weirdo, i'm a self-learner, systems thinker, and curren
 - [how to learn anything](how-to-learn-anything.md)
 - [ai basics](ai-basics.md)
 
-### phase 1: foundation
-- [level 0: what actually happens when you press send](level-0.md)
-- [level 1: how ai actually works](level-1.md)
-- [level 2: where ai gets its knowledge](level-2.md)
-- [level 3: traditional programming vs ai](level-3.md)
-- [level 4: ai types and what they do](level-4.md)
-- [level 5: ai you're already using successfully](level-5.md)
-- [level 6: setting realistic expectations](level-6.md)
+### phase 1: foundation (8 levels)
+*build solid understanding of how ai works*
 
-### phase 2: first contact
-- [level 7: your first quality ai conversation](level-7.md)
-- [level 8: spotting ai-generated fluff](level-8.md)
-- [level 9: the art of getting authentic responses](level-9.md)
+- [level 1: what happens when you press send](level-1.md)
+- [level 2: how ai recognizes patterns](level-2.md)
+- [level 3: where ai gets its knowledge](level-3.md)
+- [level 4: how ai predicts responses](level-4.md)
+- [level 5: context windows and memory limitations](level-5.md)
+- [level 6: ai types and specializations](level-6.md)
+- [level 7: ai you're already using successfully](level-7.md)
+- [level 8: choosing the right ai tool](level-8.md)
+
+### phase 2: first contact (4 levels)
+*your first ai conversations*
+
+- [level 9: your first quality ai conversation](level-9.md)
 - [level 10: building your ai quality system](level-10.md)
-
-### phase 3: building skills
-- [level 11: the 5 essential ai skills](level-11.md)
+- [level 11: getting authentic responses](level-11.md)
 - [level 12: when ai helps vs when it doesn't](level-12.md)
-- [level 13: practical ai workflows](level-13.md)
-- [level 14: troubleshooting & ai safety](level-14.md)
-- [level 15: advanced conversation techniques](level-15.md)
 
-### phase 4: integration
-- [level 16: building your personal ai system](level-16.md)
-- [level 17: ai across life domains](level-17.md)
-- [level 18: collaboration and community](level-18.md)
+### phase 3: building skills (5 levels)
+*practical competence*
 
-### phase 5: growing forward
+- [level 13: the 5 essential ai skills](level-13.md)
+- [level 14: practical ai workflows](level-14.md)
+- [level 15: troubleshooting & ai safety](level-15.md)
+- [level 16: collaboration and community](level-16.md)
+- [level 17: building your personal ai system](level-17.md)
+
+### phase 4: integration (2 levels)
+*making ai part of your life*
+
+- [level 18: ai across life domains](level-18.md)
 - [level 19: staying human-centered](level-19.md)
+
+### phase 5: growing forward (1 level)
+*continuing to learn*
+
 - [level 20: lifelong learning in the ai age](level-20.md)
 
 ## learning tools
@@ -82,3 +91,5 @@ this work is licensed under creative commons. share freely!
 
 → star this repository if you find it helpful  
 → version 1.0 | updated regularly as ai evolves
+
+pura vida, nina :)
