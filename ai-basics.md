@@ -1,16 +1,39 @@
-# foundation b: ai basics
+# getting started with ai
 
-## understanding the fear (and choosing optimism)
+## navigation
+▲ **getting started** | ← [how to learn anything](how-to-learn-anything.md) | → [level 1: what happens when you press send](level-1.md)
 
-It's normal to feel uncertain about AI. Common worries include: Will AI take my job? What if it makes mistakes I don't catch? Am I falling behind if I don't learn this?
+## understanding where you might be right now
+
+Before we dive into how AI works, let's acknowledge how you might be feeling. Most people fall into one of these learning approaches, and I've been all of them at different times:
+
+### the explorer: "this sounds exciting - show me everything!"
+
+You'll move quickly through the material. Don't skip the foundation concepts even if they seem obvious - they help you explain things to others later, and you'll catch details that make advanced techniques work better.
+
+### the practical user: "i just want to know if this helps me get things done"
+
+Perfect! Every concept in this guide connects to immediate practical value. You'll especially appreciate the workflow sections where we get into real daily applications.
+
+### the thoughtful skeptic: "i'm not sure this is safe or worth the hype"
+
+We'll address your concerns directly. Understanding how AI works usually makes you feel better about it while helping you decide when and how to use it.
+
+### the hesitant learner: "this feels overwhelming and maybe not for people like me"
+
+Take a moment to notice what's going on for you right now. Are you feeling excited? Nervous? Skeptical? Overwhelmed? 
+
+There's no pressure to love AI or use every tool. This guide helps you understand it so you can decide what fits your life. Whatever you're feeling right now is completely valid.
+
+## addressing the uncertainty (and choosing optimism)
+
+It's normal to feel uncertain about AI. Common concerns include: Will AI take my job? What if it makes mistakes I don't catch? Am I falling behind if I don't learn this?
 
 I'm genuinely optimistic about this change. Yes, people are craving human-made content more than ever - I saw a YouTube video stamped "human made lofi" the other day. But here's what's also happening: the ability to create products is now available to anyone.
 
-Products still need marketing, sales, and humans to buy them. More jobs are being replaced, but we have more creativity available to us. We're freeing up time from repetitive tasks.
+Products still need marketing, sales, and humans to buy them. More jobs are being transformed, but we have more creativity available to us. We're freeing up time from repetitive tasks.
 
-**Do you need to learn this? Yes.** It's like not learning how to use a cellphone when everyone has one. We went from simple typing phones to smartphones, but the principle remains: a device to communicate.
-
-That's what I hope to create with this guide - principles that work no matter which AI model comes next. The specific tools will change, but understanding how to work with AI pattern recognition? That's your foundation.
+**Do you need to learn this? Yes.** It's like learning to use a smartphone when everyone has one. We went from simple phones to smartphones, but the principle remains: a device to communicate and get things done.
 
 **Your opportunity:** Learn these principles now while it's still early. Use AI to handle routine tasks so you can focus on strategy, creativity, and the human connections that matter most.
 
@@ -30,7 +53,9 @@ That's what I hope to create with this guide - principles that work no matter wh
 
 ### clarifier: pattern recognition
 
-**Pattern recognition** = noticing similarities and making predictions
+<div style="background-color: #d4c9d2; padding: 15px; border-radius: 8px; margin: 15px 0; border-left: 4px solid #6a8280;">
+
+◆ **Pattern recognition = noticing similarities and making predictions**
 
 Like when you see dark clouds and predict rain, or hear someone's tone and sense they're upset. You're recognizing patterns from past experience.
 
@@ -39,9 +64,11 @@ Like when you see dark clouds and predict rain, or hear someone's tone and sense
 
 AI just does this with way more examples than humans could ever process!
 
+</div>
+
 ---
 
-## a brief history of ai
+## how we got here: a brief timeline
 
 Scientists first asked "Can machines think?" back in the 1950s. For decades, AI mostly lived in research labs because computers weren't powerful enough and we didn't have enough data.
 
@@ -58,9 +85,9 @@ timeline
     TODAY       : You are here → Learning to work with AI effectively
 ```
 
-## how ai actually works
+## understanding the ai toolkit
 
-Think of AI like a toolkit where different technologies combine to create the tools you use.
+Think of AI like a toolkit where different technologies combine to create the tools you use:
 
 ```mermaid
 graph TD
@@ -85,16 +112,20 @@ graph TD
 
 ### clarifier: programming vs machine learning
 
-**Programming** = giving exact step-by-step instructions
+<div style="background-color: #d4c9d2; padding: 15px; border-radius: 8px; margin: 15px 0; border-left: 4px solid #6a8280;">
 
+◆ **Programming vs Machine Learning:**
+
+**Programming** = giving exact step-by-step instructions
 Like a recipe: "If customer says 'refund', then show refund form. If customer says 'help', then show help menu."
 
 **Machine Learning** = showing examples and letting the computer figure out the pattern
-
 Like showing someone 1000 examples of good customer service and saying "now you try" instead of writing out every possible scenario.
 
 **Programming** = explicit rules  
 **Machine Learning** = learned patterns from examples
+
+</div>
 
 ---
 
@@ -104,6 +135,10 @@ Like showing someone 1000 examples of good customer service and saying "now you 
 ---
 
 ### clarifier: deep learning and neural networks
+
+<div style="background-color: #d4c9d2; padding: 15px; border-radius: 8px; margin: 15px 0; border-left: 4px solid #6a8280;">
+
+◆ **Neural networks and deep learning:**
 
 **Neural network** = computer system inspired by how brain cells connect
 
@@ -115,10 +150,9 @@ Each layer notices different things:
 → **Layer 3** = objects and features  
 → **Layer 4** = context and meaning
 
-**Shallow** = few layers (simple patterns)  
-**Deep** = many layers (complex understanding)
-
 It's called "deep" because of all those layers stacked up!
+
+</div>
 
 ---
 
@@ -127,27 +161,6 @@ It's called "deep" because of all those layers stacked up!
 **Large Language Models (text specialists)**
 → Trained on massive amounts of text to understand language  
 → Examples: [ChatGPT](https://chatgpt.com), [Claude](https://claude.ai), [Gemini](https://gemini.google.com)
-
----
-
-### clarifier: training data and ai models
-
-**Training data** = all the examples we show AI to teach it
-
-Like textbooks for AI school. To teach AI about language, we feed it millions of books, articles, and conversations.
-
-**AI model** = the "brain" that results from all that training
-
-Think of it like this:
-→ **Training data** = all the piano lessons and sheet music  
-→ **AI model** = the pianist who learned from all those lessons
-
-**More training data** = smarter AI (usually)  
-**Better training data** = more accurate AI
-
-The "model" is what you actually chat with - the trained result, not the training process itself.
-
----
 
 **Computer Vision AI (image specialists)**
 → Trained on millions of images to understand visual content  
@@ -159,34 +172,31 @@ The "model" is what you actually chat with - the trained result, not the trainin
 
 **Multimodal AI (combines multiple types)**
 → Can work with text, images, and audio together  
-→ Examples: GPT-4V (can see images AND chat about them)
-
-### what ai can do
-
-**Generative** - creates new content (ChatGPT writing, DALL-E making images)  
-**Recognition** - identifies existing content (photo tagging, voice recognition)  
-**Analysis** - examines and breaks down information  
-**Prediction** - forecasts what might happen next
+→ Examples: GPT-4o (can see images AND chat about them)
 
 ---
 
-### clarifier: algorithms
+### clarifier: training data and ai models
 
-**Algorithm** = step-by-step instructions for solving a problem
+<div style="background-color: #d4c9d2; padding: 15px; border-radius: 8px; margin: 15px 0; border-left: 4px solid #6a8280;">
 
-Like a recipe, but for computers. Every app, website, and digital tool follows algorithms.
+◆ **Training data and models:**
 
-**Simple algorithm** = "If it's raining, bring umbrella"  
-**Complex algorithm** = Netflix deciding what movie to recommend based on millions of factors
+**Training data** = all the examples we show AI to teach it
+Like textbooks for AI school. To teach AI about language, we feed it millions of books, articles, and conversations.
 
-**Traditional algorithms** = humans write the exact steps  
-**AI algorithms** = computer learns the steps from examples
+**AI model** = the "brain" that results from all that training
+Think of it like this:
+→ **Training data** = all the piano lessons and sheet music  
+→ **AI model** = the pianist who learned from all those lessons
 
-Even when AI "learns," it's still following algorithmic patterns - just much more complex ones that emerged from training rather than being hand-written.
+The "model" is what you actually chat with - the trained result, not the training process itself.
+
+</div>
 
 ---
 
-## how they combine: real examples
+## how different ai types combine: real examples
 
 **ChatGPT** = Large Language Model + Generative Capability
 → Result: AI that can have conversations and write original content
@@ -194,17 +204,17 @@ Even when AI "learns," it's still following algorithmic patterns - just much mor
 **DALL-E** = Computer Vision AI + Generative Capability
 → Result: AI that can create original artwork from text descriptions
 
-**GPT-4V** = Multimodal AI + Multiple Capabilities
+**GPT-4o** = Multimodal AI + Multiple Capabilities
 → Result: AI that can see images AND have conversations about them
 
 This explains why:
-→ [ChatGPT](https://chatgpt.com) is amazing at writing but can't create images  
+→ [ChatGPT](https://chatgpt.com) is amazing at writing but originally couldn't create images  
 → [DALL-E](https://openai.com/dall-e-2) can make art but can't have conversations  
-→ You need different tools for different jobs
+→ You need different tools for different jobs (though this is changing with multimodal AI)
 
 ## ai that exists now vs. ai that doesn't (yet)
 
-### what we have today - narrow ai
+### what we have today: narrow ai
 
 AI that's extremely good at specific tasks but can't do anything outside its specialty. ChatGPT is brilliant at writing but can't drive your car. Your car's AI can navigate traffic but can't write a poem.
 
@@ -217,7 +227,7 @@ AI systems that can take actions in the real world to accomplish goals, not just
 → AI that can manage your calendar and actually schedule meetings  
 → AI that can place orders and handle routine transactions
 
-### what we don't have yet - artificial general intelligence (agi)
+### what we don't have yet: artificial general intelligence (agi)
 
 AI with human-level intelligence across all areas - could learn any task humans can learn and transfer knowledge between completely different fields.
 
@@ -226,6 +236,10 @@ AI with human-level intelligence across all areas - could learn any task humans 
 ---
 
 ### clarifier: current ai vs. agents vs. agi
+
+<div style="background-color: #d4c9d2; padding: 15px; border-radius: 8px; margin: 15px 0; border-left: 4px solid #6a8280;">
+
+◆ **The three levels of AI:**
 
 **Current AI:** Like having smart specialists
 → ChatGPT writes, DALL-E creates images, but they only answer/create
@@ -238,61 +252,55 @@ AI with human-level intelligence across all areas - could learn any task humans 
 → Can learn any task, transfer knowledge between domains  
 → Would understand context, make judgments, adapt to new situations
 
----
+</div>
 
 ---
 
-### clarifier: ai tools quick reference
+## what this means for you
 
-**LLM (text)** → [ChatGPT](https://chatgpt.com), [Claude](https://claude.ai), [Gemini](https://gemini.google.com)  
-**Computer Vision (images)** → [DALL-E](https://openai.com/dall-e-2), [Midjourney](https://midjourney.com)  
-**Audio AI (sound)** → Siri, Spotify recommendations  
-**Multimodal (text + images)** → GPT-4V, [Claude](https://claude.ai) with vision  
-**Research** → [Perplexity](https://perplexity.ai)
+Understanding AI's current capabilities helps you:
 
-**What each does:**
-→ **LLM:** understands & creates text  
-→ **Computer Vision:** sees & creates images  
-→ **Audio AI:** hears & creates sound  
-→ **Multimodal:** combines multiple types
+→ **Set realistic expectations**: AI is powerful pattern recognition, not magic  
+→ **Choose appropriate tasks**: Great for drafting, research, brainstorming; requires verification for facts  
+→ **Prepare for the future**: Building AI literacy now prepares you for more advanced capabilities coming soon
 
----
+**Remember:** AI is a tool that's really good at recognizing patterns and making predictions. It's designed to help with specific tasks so you can focus on things that require uniquely human judgment, creativity, and connection.
 
-## heart check-in
+## your learning path ahead
 
-Does knowing AI's history make it feel less mysterious? It's normal if you're feeling both excited about possibilities and concerned about changes.
+Now that you understand what AI is and where it came from, you're ready to learn how it actually works when you interact with it. 
 
-Remember: AI is a tool that's really good at recognizing patterns and making predictions. It's not trying to replace human thinking - it's trying to help with specific tasks so you can focus on things that require uniquely human judgment.
+In the next section, we'll explore what happens when you press send in ChatGPT - the universal pattern that all AI tools follow, and why understanding this simple concept will make you better at working with any AI system you encounter.
 
-## your turn
+## ◇ connecting the dots
 
-**Try it now:** Go to [ChatGPT](https://chatgpt.com) or [Claude](https://claude.ai) and ask: "Can you explain how you work using simple analogies?" Notice how it describes its own pattern recognition abilities.
+**What we learned**: AI is sophisticated pattern recognition that learned from massive examples, creating specialized tools for different tasks
 
-**Quick reflection:** What part of this AI overview surprised you most?
+**Why this matters**: Understanding AI's capabilities and limitations helps you use it effectively and prepare for future developments
 
-**This week:** Next time someone asks you about AI, explain that it's pattern recognition that got really good by learning from massive amounts of examples.
-
-**Think about tomorrow:** What's one thing you hope AI could help you with, now that you understand it's specialized pattern recognition?
+**What's next**: Now we'll explore the fundamental pattern all AI follows when you interact with it
 
 ---
 
-### flashcards for this section
+### ◈ flashcard for this section
 
-**Front:** What three things came together around 2010 to make modern AI possible?  
-**Back:** Massive data from the internet, powerful computers, and new techniques for teaching AI
+<div style="background: linear-gradient(135deg, #f2e5e1 0%, #c8d9e6 100%); padding: 20px; border-radius: 12px; margin: 20px 0;">
 
-**Front:** What's the difference between current AI, AI agents, and AGI?  
-**Back:** Current AI answers/creates, AI agents can take actions in the world, AGI (future) has human-level intelligence across all domains
+**❯ Front**: What three things came together around 2010 to make modern AI possible?  
+**❮ Back**: Massive data from the internet, powerful computers, and new techniques for teaching AI
 
-**Front:** How does ChatGPT combine different AI technologies?  
-**Back:** Deep Learning foundation + Large Language Model specialization + Generative capability = conversational AI that creates text
+**❯ Front**: What's the difference between current AI, AI agents, and AGI?  
+**❮ Back**: Current AI answers/creates, AI agents can take actions in the world, AGI (future) has human-level intelligence across all domains
 
-**Front:** When do most experts think AGI will arrive?  
-**Back:** 2028-2035 according to most AI researchers
-
-**Front:** What's the difference between old AI and new AI?  
-**Back:** Old AI: programmed with specific rules. New AI: learns patterns from millions of examples
+</div>
 
 ---
 
-→ **Next:** [level 0: what actually happens when you press send](level-0.md)
+**Sources:**
+- AI Development Timeline: [MIT AI Timeline](https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained) | [Stanford AI Index](https://aiindex.stanford.edu/)
+- Machine Learning Fundamentals: [IBM AI Models](https://www.ibm.com/think/topics/ai-model) | [ACAMS AI Concepts](https://www.acamstoday.org/your-ai-cheat-sheet-key-concepts-in-common-sense-terms/)
+- AI Capabilities: [OpenAI GPT-4 Technical Report](https://arxiv.org/abs/2303.08774) | [Anthropic Constitutional AI](https://www.anthropic.com/research/constitutional-ai)
+
+---
+
+→ **next**: [level 1: what happens when you press send](level-1.md)
