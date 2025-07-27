@@ -76,13 +76,17 @@ Around 2010, three things came together:
 
 ```mermaid
 timeline
-    title AI Development Timeline
-    1950s-1980s : Scientists dream of thinking machines
-    1990s-2000s : Computers get better at specific tasks
-    2010s       : Machine learning breakthrough
+    title AI Development Journey
+    1950s-1980s : 🔬 Scientists dream of thinking machines
+                : Early concepts and theories
+    1990s-2000s : 💻 Computers get better at specific tasks  
+                : Internet creates massive data
+    2010s       : ⚡ Machine learning breakthrough
                 : More data + Better computers + New techniques
-    2020s       : AI becomes conversational and accessible
-    TODAY       : You are here → Learning to work with AI effectively
+    2020s       : 🗣️ AI becomes conversational and accessible
+                : ChatGPT launches, AI goes mainstream
+    TODAY       : 🚀 You are here → Learning to work with AI effectively
+                : Building AI literacy for the future
 ```
 
 ## understanding the ai toolkit
@@ -91,18 +95,37 @@ Think of AI like a toolkit where different technologies combine to create the to
 
 ```mermaid
 graph TD
-    subgraph AI[AI Technologies]
-        ML[Machine Learning<br/>Learning from examples] --> Text[Text AI<br/>ChatGPT, Claude]
-        ML --> Vision[Vision AI<br/>DALL-E, Midjourney]
-        ML --> Audio[Audio AI<br/>Siri, Transcription]
-        ML --> Multi[Multimodal AI<br/>GPT-4o, Gemini]
+    subgraph AI[🤖 ARTIFICIAL INTELLIGENCE]
+        subgraph Foundation[Foundation Layer]
+            ML[Machine Learning<br/>Learning from examples, not rules]
+            DL[Deep Learning<br/>Sophisticated pattern recognition]
+        end
+        
+        subgraph Specialized[Specialized AI Types]
+            LLM[Large Language Models<br/>📝 Text specialists]
+            CV[Computer Vision AI<br/>👁️ Image specialists] 
+            Audio[Audio AI<br/>🎵 Sound specialists]
+            Multi[Multimodal AI<br/>🔗 Combines all types]
+        end
+        
+        subgraph Tools[Tools You Use]
+            LLM --> ChatGPT[ChatGPT, Claude]
+            CV --> Images[DALL-E, Midjourney]
+            Audio --> Voice[Siri, Transcription]
+            Multi --> Advanced[GPT-4o, Gemini 2.0]
+        end
     end
     
-    style ML fill:#6a8280
-    style Text fill:#efc5b9
-    style Vision fill:#efc5b9
-    style Audio fill:#efc5b9
-    style Multi fill:#c8d9e6
+    style ML fill:#efc5b9
+    style DL fill:#efc5b9
+    style LLM fill:#6a8280
+    style CV fill:#6a8280
+    style Audio fill:#6a8280
+    style Multi fill:#6a8280
+    style ChatGPT fill:#c8d9e6
+    style Images fill:#c8d9e6
+    style Voice fill:#c8d9e6
+    style Advanced fill:#c8d9e6
 ```
 
 ### the foundation technologies
@@ -218,24 +241,33 @@ This explains why:
 
 ## ai that exists now vs. ai that doesn't (yet)
 
-### what we have today: narrow ai
+Understanding AI's current capabilities helps you set realistic expectations:
 
-AI that's extremely good at specific tasks but can't do anything outside its specialty. ChatGPT is brilliant at writing but can't drive your car. Your car's AI can navigate traffic but can't write a poem.
-
-### ai agents (starting to emerge)
-
-AI systems that can take actions in the real world to accomplish goals, not just provide information.
-
-**Examples emerging now:**
-→ AI that can book flights for you (not just tell you how)  
-→ AI that can manage your calendar and actually schedule meetings  
-→ AI that can place orders and handle routine transactions
-
-### what we don't have yet: artificial general intelligence (agi)
-
-AI with human-level intelligence across all areas - could learn any task humans can learn and transfer knowledge between completely different fields.
-
-**Timeline:** Most experts think 2028-2035. This is the big change everyone's preparing for.
+```mermaid
+graph LR
+    subgraph Current[🔧 Current AI - Narrow Specialists]
+        Text[📝 Text AI<br/>ChatGPT writes but<br/>can't drive cars]
+        Vision[👁️ Vision AI<br/>DALL-E creates images but<br/>can't have conversations]
+        Voice[🎵 Audio AI<br/>Siri understands speech but<br/>can't analyze documents]
+    end
+    
+    subgraph Emerging[⚡ AI Agents - Starting to Emerge]
+        Actions[🤖 Can take real-world actions<br/>Book flights, schedule meetings<br/>Place orders automatically]
+    end
+    
+    subgraph Future[🌟 AGI - Artificial General Intelligence]
+        Universal[🧠 Human-level intelligence<br/>Learn any task<br/>Transfer knowledge between fields<br/>Timeline: 2028-2035]
+    end
+    
+    Current --> Emerging
+    Emerging --> Future
+    
+    style Text fill:#efc5b9
+    style Vision fill:#efc5b9  
+    style Voice fill:#efc5b9
+    style Actions fill:#6a8280
+    style Universal fill:#c8d9e6
+```
 
 ---
 
