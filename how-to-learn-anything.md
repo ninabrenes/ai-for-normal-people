@@ -27,40 +27,38 @@ Everything connects to help you learn faster and remember longer:
 
 ```mermaid
 graph TD
-    subgraph Biology[Your Biology]
-        Brain[Your Brain Changes] --> Timing[Best Learning Times]
-        Timing --> Energy[Energy Patterns]
+    subgraph Biology[🧠 Your Biology - The Foundation]
+        Brain[Brain Changes<br/>Neuroplasticity] 
+        Timing[Natural Rhythms<br/>90-min cycles]
+        Energy[Energy Patterns<br/>Chronotypes + Hormones]
     end
     
-    subgraph Methods[Learning Methods]
-        Test[Test Yourself] --> Space[Space Reviews]
-        Space --> Practice[Practice Weak Areas]
-        Practice --> Think[Think About Thinking]
+    subgraph Methods[⚙️ Learning Methods - The Tools]
+        Test[Test Yourself<br/>Active recall]
+        Space[Space Reviews<br/>Spaced repetition] 
+        Practice[Practice Weaknesses<br/>Deliberate practice]
+        Think[Think About Thinking<br/>Metacognition]
     end
     
-    subgraph Discipline[Self-Learning Discipline]
-        Start[Start When Hard] --> Momentum[Build Momentum]
-        Momentum --> Habits[Make It Automatic]
+    subgraph Discipline[💪 Self-Learning Discipline - The Engine]
+        Start[Start When Hard<br/>2-minute rule]
+        Momentum[Build Momentum<br/>Daily habits]
+        Habits[Make Automatic<br/>Environmental design]
     end
     
-    Biology --> Methods
-    Methods --> Discipline
-    Discipline --> Results[Learn Anything]
+    subgraph Results[🎯 Outcomes]
+        Adaptive[Learn Anything<br/>Adapt to Change<br/>Stay Curious]
+    end
     
-    style Brain fill:#0b1643,color:#ffffff
-    style Timing fill:#0b1643,color:#ffffff
-    style Energy fill:#0b1643,color:#ffffff
-    style Test fill:#6a8280,color:#ffffff
-    style Space fill:#6a8280,color:#ffffff
-    style Practice fill:#6a8280,color:#ffffff
-    style Think fill:#6a8280,color:#ffffff
-    style Start fill:#efc5b9,color:#0b1643
-    style Momentum fill:#efc5b9,color:#0b1643
-    style Habits fill:#efc5b9,color:#0b1643
-    style Results fill:#d4c9d2,color:#0b1643
-    style Biology fill:#f2e5e1,color:#0b1643
-    style Methods fill:#c8d9e6,color:#0b1643
-    style Discipline fill:#f2e5e1,color:#0b1643
+    Biology ==> Methods
+    Methods ==> Discipline  
+    Discipline ==> Results
+    Results -.-> Biology
+    
+    style Brain fill:#efc5b9
+    style Test fill:#6a8280
+    style Start fill:#6a8280  
+    style Adaptive fill:#c8d9e6
 ```
 
 ## how your brain actually works
@@ -81,18 +79,22 @@ Your brain has natural energy cycles:
 
 ```mermaid
 graph LR
-    subgraph Cycle[90-Minute Focus Cycle]
-        Start[Start:<br/>Getting focused<br/>0-20 min] --> Peak[Peak:<br/>Best performance<br/>20-70 min]
-        Peak --> Decline[Natural decline:<br/>Getting tired<br/>70-90 min]
-        Decline --> Rest[Rest:<br/>Recharge<br/>15-20 min]
-        Rest --> Start
+    subgraph Cycle[⏰ 90-Minute Focus Cycle]
+        Start[🌅 Start<br/>Getting focused<br/>0-20 min<br/>⚡ Low energy] 
+        Peak[🎯 Peak<br/>Best performance<br/>20-70 min<br/>⚡⚡⚡ High energy]
+        Decline[😴 Natural decline<br/>Getting tired<br/>70-90 min<br/>⚡ Declining energy]
+        Rest[🔄 Rest<br/>Recharge<br/>15-20 min<br/>🛌 Recovery]
     end
     
-    style Start fill:#efc5b9,color:#0b1643
-    style Peak fill:#6a8280,color:#ffffff
-    style Decline fill:#d4c9d2,color:#0b1643
-    style Rest fill:#c8d9e6,color:#0b1643
-    style Cycle fill:#f2e5e1,color:#0b1643
+    Start --> Peak
+    Peak --> Decline  
+    Decline --> Rest
+    Rest --> Start
+    
+    style Start fill:#f2e5e1
+    style Peak fill:#6a8280
+    style Decline fill:#efc5b9
+    style Rest fill:#c8d9e6
 ```
 
 **Simple rule**: Work hard for 90 minutes, rest for 20 minutes, repeat.
@@ -103,18 +105,20 @@ People have different energy patterns:
 
 ```mermaid
 graph TD
-    subgraph Chronotypes[Your Natural Energy Pattern]
-        L[🦁 Morning Lions 25%<br/>Superpower: 6 AM - 12 PM<br/>Best for: Complex AI concepts]
-        B[🐻 Steady Bears 55%<br/>Superpower: 10 AM - 2 PM<br/>Best for: Regular AI practice]
-        W[🐺 Night Wolves 20%<br/>Superpower: 5 PM - 12 AM<br/>Best for: Creative AI projects]
-        D[🐬 Flexible Dolphins 10%<br/>Superpower: Varies daily<br/>Best for: Short AI sessions]
+    subgraph Chronotypes[🕐 Your Natural Energy Pattern]
+        L[🦁 Morning Lions - 25%<br/>⚡ Superpower: 6 AM - 12 PM<br/>🎯 Best for: Complex AI concepts<br/>🌅 Peak cognitive performance early]
+        
+        B[🐻 Steady Bears - 55%<br/>⚡ Superpower: 10 AM - 2 PM<br/>🎯 Best for: Regular AI practice<br/>☀️ Follow natural sun rhythm]
+        
+        W[🐺 Night Wolves - 20%<br/>⚡ Superpower: 5 PM - 12 AM<br/>🎯 Best for: Creative AI projects<br/>🌙 Peak performance evening]
+        
+        D[🐬 Flexible Dolphins - 10%<br/>⚡ Superpower: Varies daily<br/>🎯 Best for: Short AI sessions<br/>🌊 Irregular but adaptable]
     end
     
-    style L fill:#0b1643,color:#ffffff
-    style B fill:#6a8280,color:#ffffff
-    style W fill:#efc5b9,color:#0b1643
-    style D fill:#d4c9d2,color:#0b1643
-    style Chronotypes fill:#f2e5e1,color:#0b1643
+    style L fill:#efc5b9
+    style B fill:#6a8280  
+    style W fill:#c8d9e6
+    style D fill:#f2e5e1
 ```
 
 **Track yourself for one week**: Rate your alertness every 2 hours (1-10). You'll see your pattern.
@@ -127,20 +131,22 @@ graph TD
 
 ```mermaid
 graph LR
-    subgraph Cycle[Monthly Cognitive Superpowers]
-        M[Days 1-7<br/>Reflection Superpower<br/>Big picture thinking<br/>Planning & strategizing]
-        F[Days 8-14<br/>Learning Superpower<br/>New concepts<br/>Creative problem-solving]
-        O[Days 15-21<br/>Communication Superpower<br/>Presentations<br/>Teaching others]
-        L[Days 22-28<br/>Detail Superpower<br/>Organization<br/>Quality control]
+    subgraph Cycle[🌙 Monthly Cognitive Superpowers - 28 Day Cycle]
+        M[🔴 Days 1-7<br/>Reflection Superpower<br/>🧠 Big picture thinking<br/>📋 Planning & strategizing<br/>💭 Introspective insights]
+        
+        F[🌱 Days 8-14<br/>Learning Superpower<br/>📚 New concepts<br/>🎨 Creative problem-solving<br/>⚡ Growing mental energy]
+        
+        O[🌟 Days 15-21<br/>Communication Superpower<br/>🎤 Presentations<br/>👥 Teaching others<br/>💬 Verbal peak performance]
+        
+        L[🍂 Days 22-28<br/>Detail Superpower<br/>📊 Organization<br/>🔍 Quality control<br/>✅ Systematic refinement]
     end
     
     M --> F --> O --> L --> M
     
-    style M fill:#0b1643,color:#ffffff
-    style F fill:#6a8280,color:#ffffff
-    style O fill:#efc5b9,color:#0b1643
-    style L fill:#d4c9d2,color:#0b1643
-    style Cycle fill:#f2e5e1,color:#0b1643
+    style M fill:#f2e5e1
+    style F fill:#efc5b9
+    style O fill:#6a8280
+    style L fill:#c8d9e6
 ```
 
 **For AI learning**:
@@ -157,25 +163,26 @@ Different situations need different approaches:
 
 ```mermaid
 graph TD
-    A[What are you learning?] --> B{New concept?}
-    A --> C{Facts to remember?}
-    A --> D{Skill to build?}
-    A --> E{Feeling stuck?}
+    A[🤔 What are you learning?] 
     
-    B --> B1[Test yourself method<br/>Explain it out loud]
-    C --> C1[Space your reviews<br/>Review at intervals]
-    D --> D1[Practice weak areas<br/>Focus on struggles]
-    E --> E1[Think about thinking<br/>Ask what's confusing]
+    A --> B{📖 New concept?}
+    A --> C{🧠 Facts to remember?}
+    A --> D{⚡ Skill to build?}
+    A --> E{😕 Feeling stuck?}
     
-    style A fill:#0b1643,color:#ffffff
-    style B fill:#6a8280,color:#ffffff
-    style C fill:#6a8280,color:#ffffff
-    style D fill:#6a8280,color:#ffffff
-    style E fill:#6a8280,color:#ffffff
-    style B1 fill:#efc5b9,color:#0b1643
-    style C1 fill:#efc5b9,color:#0b1643
-    style D1 fill:#efc5b9,color:#0b1643
-    style E1 fill:#efc5b9,color:#0b1643
+    B --> B1[🗣️ Test yourself method<br/>Explain it out loud<br/>Close book and teach]
+    
+    C --> C1[📅 Space your reviews<br/>Day 2, 4, 8, 16<br/>Spaced repetition]
+    
+    D --> D1[🎯 Practice weak areas<br/>Focus on struggles<br/>Get immediate feedback]
+    
+    E --> E1[🤯 Think about thinking<br/>Ask what's confusing<br/>Change your approach]
+    
+    style A fill:#6a8280
+    style B1 fill:#efc5b9
+    style C1 fill:#efc5b9
+    style D1 fill:#efc5b9
+    style E1 fill:#efc5b9
 ```
 
 ## troubleshooting common learning problems
