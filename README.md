@@ -5,9 +5,18 @@ by nina brenes
 
 ## about this guide
 
-whether you found this through my newsletter [ninagpt: field notes from my ai journey](https://ninaverse.kit.com/36228eea47) or stumbled upon it here on github, this guide will take you from ai anxiety to ai competence.
+ai is changing how we work, learn, and solve problems. this guide takes you from ai anxiety to ai competence without the technical jargon or overwhelming complexity.
 
-this is version 1.0 - i'll be updating it as ai evolves and as i learn new things.
+whether you found this through my newsletter [ninagpt: field notes from my ai journey](https://ninaverse.kit.com/36228eea47) or stumbled upon it here on github, you'll learn to use ai confidently and effectively.
+
+this is version 1.0 - i'll update it as ai evolves and as i learn new things.
+
+## who this is for
+
+→ non-technical people who want practical ai skills for work and life  
+→ anyone feeling overwhelmed by ai hype and tools  
+→ professionals, parents, students, and lifelong learners  
+→ people who want to use ai while staying human-centered
 
 ## who am i?
 
@@ -15,82 +24,75 @@ aside from being a goofy weirdo, i'm a self-learner, systems thinker, and curren
 
 ## how to use this guide
 
-→ read sequentially - each level builds on previous ones  
-→ use the flashcards provided in each level (download [anki](https://ankiweb.net/) for mobile/desktop or go analog)  
-→ try the "your turn" exercises  
-→ take your time - understanding matters more than speed
+**read sequentially** - each level builds on previous ones  
+**practice actively** - use the exercises in each level  
+**take your time** - understanding matters more than speed  
+**use the flashcards** - download [anki](https://ankiweb.net/) or create physical cards
+
+• • •
 
 ## the complete guide
 
-### getting started
-- [how to learn anything](how-to-learn-anything.md)
-- [ai basics](ai-basics.md)
+### ○ getting started
+- [ai basics](ai-basics.md) - what ai is, where it came from, why now
+- [learning approach](learning-approach.md) - how to learn ai effectively
 
-### phase 1: foundation (9 levels)
-*build solid understanding of how ai works*
+### ◐ phase 1: understanding ai (3 levels)
+*build solid foundation of how ai works*
 
-- [level 1: what happens when you press send](level-1.md)
-- [level 2: how ai recognizes patterns](level-2.md)
-- [level 3: where ai gets its knowledge](level-3.md)
-- [level 4: how ai predicts responses](level-4.md)
-- [level 5: context windows and memory limitations](level-5.md)
-- [level 6: ai types and specializations](level-6.md)
-- [level 7: ai you're already using successfully](level-7.md)
-- [level 8: mapping your workflows before adding ai](level-8.md)
-- [level 9: choosing the right ai tool](level-9.md)
-  
-### phase 2: first contact (4 levels)
-*your first ai conversations*
+- ○ [level 1: how ai actually works](level-1.md)
+- ◐ [level 2: ai knowledge and limitations](level-2.md)  
+- ◐ [level 3: types of ai and when to use each](level-3.md)
 
-- [level 9: your first quality ai conversation](level-9.md)
-- [level 10: building your ai quality system](level-10.md)
-- [level 11: getting authentic responses](level-11.md)
-- [level 12: when ai helps vs when it doesn't](level-12.md)
+### ● phase 2: getting started (3 levels)
+*your first successful ai interactions*
 
-### phase 3: building skills (5 levels)
-*practical competence*
+- ● [level 4: your first ai conversations](level-4.md)
+- ● [level 5: finding your ai opportunities](level-5.md)
+- ● [level 6: developing ai quality standards](level-6.md)
 
-- [level 13: the 5 essential ai skills](level-13.md)
-- [level 14: practical ai workflows](level-14.md)
-- [level 15: troubleshooting & ai safety](level-15.md)
-- [level 16: collaboration and community](level-16.md)
-- [level 17: building your personal ai system](level-17.md)
+### ● phase 3: building real skills (3 levels)
+*advanced competence and integration*
 
-### phase 4: integration (2 levels)
-*making ai part of your life*
+- ● [level 7: the 5 essential ai skills](level-7.md)
+- ● [level 8: advanced ai workflows](level-8.md)
+- ● [level 9: staying human-centered and growing forward](level-9.md)
 
-- [level 18: ai across life domains](level-18.md)
-- [level 19: staying human-centered](level-19.md)
+• • •
 
-### phase 5: growing forward (1 level)
-*continuing to learn*
+## what makes this guide different
 
-- [level 20: lifelong learning in the ai age](level-20.md)
+**human-centered approach** - ai as a tool to enhance human capability in work and life, not replace it  
+**practical focus** - real examples from professional and personal contexts  
+**progressive learning** - concepts build naturally from basic to advanced  
+**confidence building** - starts with ai you already use successfully in daily life  
+**current and accurate** - updated with 2025 ai capabilities for work and personal use
 
 ## learning tools
 
-→ flashcards: download [anki](https://ankiweb.net/) for spaced repetition or create physical cards  
-→ active recall: explain concepts to someone else without looking  
-→ deliberate practice: apply skills to real challenges  
-→ metacognition: notice how your thinking about ai changes  
+**active recall** - explain concepts to someone else without looking  
+**spaced repetition** - use provided flashcards with increasing intervals  
+**deliberate practice** - apply skills to real challenges in your life  
+**metacognition** - notice how your thinking about ai changes
 
 ## stay connected
 
 join [ninagpt: field notes from my ai journey](https://ninaverse.kit.com/36228eea47) for:
-- new content and guide updates
+- guide updates and new content
 - weekly ai insights for non-technical people
+- community discussions and questions
 
 ## support this work
 
-if this guide helped you, consider [buying me a coffee](https://buymeacoffee.com/ninabrenes)
+if this guide helps you, consider [buying me a coffee](https://buymeacoffee.com/ninabrenes)
 
 ## license
 
-this work is licensed under creative commons. share freely!
+this work is licensed under creative commons attribution 4.0. share freely with attribution!
 
 ---
 
 → star this repository if you find it helpful  
-→ version 1.0 | updated regularly as ai evolves
+→ version 1.0 | updated july 2025
 
 pura vida, nina :)
