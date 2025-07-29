@@ -28,14 +28,14 @@ This creates both risks and opportunities depending on how you respond.
 ```mermaid
 %%{init: {'theme':'base', 'themeVariables': { 'primaryColor': '#0b1643', 'primaryTextColor': '#ffffff', 'lineColor': '#6a8280'}}}%%
 graph LR
-    subgraph Current[→ what we see now (2025)]
-        A[⟡ opportunities<br/>new capabilities, creative tools<br/>time liberation, problem solving] 
-        B[⟡ challenges<br/>job displacement, rapid change<br/>authenticity crisis]
+    subgraph Current["what we see now 2025"]
+        A["opportunities<br/>new capabilities, creative tools<br/>time liberation, problem solving"] 
+        B["challenges<br/>job displacement, rapid change<br/>authenticity crisis"]
     end
     
-    subgraph Response[→ how you respond determines outcome]
-        C[⟡ human-centered approach<br/>ai amplifies your capabilities<br/>you stay adaptable + grounded]
-        D[⟡ replacement mindset<br/>ai does your thinking<br/>you become dependent]
+    subgraph Response["how you respond determines outcome"]
+        C["human-centered approach<br/>ai amplifies your capabilities<br/>you stay adaptable + grounded"]
+        D["replacement mindset<br/>ai does your thinking<br/>you become dependent"]
     end
     
     Current --> Response
@@ -150,20 +150,16 @@ The pace of AI development creates information overload and decision fatigue. He
 
 ## → what you've accomplished
 
-You started this guide feeling uncertain about AI. You now have practical skills for using AI effectively while maintaining human values. That's significant. Most people are either afraid of AI or think it's magic. You understand it's a powerful tool that requires human judgment to use well.
+You started this guide feeling uncertain about AI. Now you have practical skills for using AI effectively while maintaining human values. That's significant. Most people are either afraid of AI or think it's magic. You understand it's a powerful tool that requires human judgment to use well.
 
 **You've developed:**
-→ Technical competence in AI conversations and workflow building
+→ Technical competence in AI conversations and workflow building  
 → Quality evaluation skills that maintain standards  
-→ Human-centered approach that amplifies rather than replaces your capabilities
-→ Adaptability mindset for continued learning as technology evolves
+→ Human-centered approach that amplifies rather than replaces your capabilities  
+→ Adaptability mindset for continued learning as technology evolves  
 → Balanced perspective that sees both opportunities and risks
 
-**Your ongoing practice:**
-→ Keep experimenting with new capabilities while staying grounded in human strengths
-→ Help others learn to use AI thoughtfully - your balanced perspective is valuable
-→ Stay curious about what emerges while maintaining relationships and offline skills  
-→ Build things that combine AI efficiency with human insight and creativity
+Keep experimenting with new capabilities while staying grounded in human strengths. Help others learn to use AI thoughtfully - your balanced perspective is valuable. Stay curious about what emerges while maintaining relationships and offline skills. Build things that combine AI efficiency with human insight and creativity.
 
 • • •
 
@@ -193,7 +189,7 @@ The specific tools will keep changing, but the approach you've developed here - 
 
 Thanks for trusting me as your guide. Now go build something interesting with what you know.
 
-Pura vida! ♡
+Pura vida! ♡ 
 
 ---
 
