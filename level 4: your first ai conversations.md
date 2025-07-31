@@ -23,7 +23,7 @@ graph LR
     end
     
     subgraph Good["Good Conversations"]  
-        E["Context + Request + Format"] --> F["Useful Response"] --> G["Quick Refinement"] --> H["Exactly What You Need"]
+        E["Clear Context"] --> F["Useful Response"] --> G["Quick Refinement"] --> H["Perfect Result"]
     end
     
     style A fill:#f2e5e1,color:#0b1643
