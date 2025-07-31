@@ -18,12 +18,12 @@ bad ai conversations? you'll spend 20 minutes going back and forth and still get
 
 ```mermaid
 graph LR
-    subgraph Poor["↳ poor conversations"]
-        A["→ vague request"] --> B["→ generic response"] --> C["→ back and forth confusion"] --> D["→ mediocre result"]
+    subgraph Poor[poor conversations]
+        A[vague request] --> B[generic response] --> C[back and forth confusion] --> D[mediocre result]
     end
     
-    subgraph Good["↳ good conversations"]  
-        E["→ context + request + format"] --> F["⟡ useful response"] --> G["→ quick refinement"] --> H["⟡ exactly what you need"]
+    subgraph Good[good conversations]  
+        E[context + request + format] --> F[useful response] --> G[quick refinement] --> H[exactly what you need]
     end
     
     style A fill:#f2e5e1,color:#0b1643
