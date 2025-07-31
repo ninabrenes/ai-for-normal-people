@@ -1,7 +1,7 @@
 # ● level 4: your first ai conversations
 
 ## navigation
-▲ **phase 2: getting started (1/3)** | ← [level 3: types of ai and when to use each](level-3.md) | → [level 5: finding your ai opportunities](level-5.md)
+▲ **phase 2: getting started (1/3)** | ← [level 3: types of ai and when to use each](level%203:%20types%20of%20ai%20and%20when%20to%20use%20each.md) | → [level 5: finding your ai opportunities](level%205:%20finding%20your%20ai%20opportunities.md)
 
 ## what you'll learn
 
@@ -17,14 +17,13 @@ you've picked your ai tool. the difference between useful and frustrating result
 bad ai conversations? you'll spend 20 minutes going back and forth and still get something generic. good conversations? you get exactly what you need in 2-3 tries.
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor': '#0b1643', 'primaryTextColor': '#ffffff', 'lineColor': '#6a8280'}}}%%
 graph LR
-    subgraph Poor[↳ poor conversations]
-        A[→ vague request] --> B[→ generic response] --> C[→ back and forth confusion] --> D[→ mediocre result]
+    subgraph Poor["↳ poor conversations"]
+        A["→ vague request"] --> B["→ generic response"] --> C["→ back and forth confusion"] --> D["→ mediocre result"]
     end
     
-    subgraph Good[↳ good conversations]  
-        E[→ context + request + format] --> F[⟡ useful response] --> G[→ quick refinement] --> H[⟡ exactly what you need]
+    subgraph Good["↳ good conversations"]  
+        E["→ context + request + format"] --> F["⟡ useful response"] --> G["→ quick refinement"] --> H["⟡ exactly what you need"]
     end
     
     style A fill:#f2e5e1,color:#0b1643
@@ -430,4 +429,4 @@ understanding ai's memory capabilities and token-by-token generation helps you s
 
 you understand how to have effective ai conversations. now discover the specific opportunities where ai can make the biggest difference in your work and life.
 
-→ **next**: [level 5: finding your ai opportunities](level-5.md)
+→ **next**: [level 5: finding your ai opportunities](level%205:%20finding%20your%20ai%20opportunities.md)
