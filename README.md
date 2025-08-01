@@ -35,7 +35,7 @@ aside from being a goofy weirdo, i'm a self-learner, systems thinker, and curren
 
 ### ◐ phase 1: understanding ai (3 levels)
 *build solid foundation of how ai works*
-- ○ [level 1: how ai actually works](level 1: how ai actually works.md)
+- ○ [level 1: how ai actually works](level_1_how_ai_actually_works.md)
 - ◐ [level 2: ai knowledge and limitations](level_2_ai_knowledge_and_limitations.md)  
 - ◐ [level 3: types of ai and when to use each](level_3_types_of_ai_and_when_to_use_each.md)
 
