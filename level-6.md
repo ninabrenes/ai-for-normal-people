@@ -20,11 +20,11 @@ not all ai output needs the same level of quality. what matters is matching your
 %%{init: {'theme':'base', 'themeVariables': { 'primaryColor': '#0b1643', 'primaryTextColor': '#ffffff', 'lineColor': '#6a8280'}}}%%
 graph LR
     subgraph Stakes["→ stakes and quality requirements"]
-        Low["⟡ low stakes\nbrainstorming, family planning\ninternal notes, creative projects"] --> LowQuality["→ \"good enough\" = \nuseful starting point"]
+        Low>⟡ low stakes<br/>brainstorming, family planning<br/>internal notes, creative projects] --> LowQuality>→ good enough =<br/>useful starting point]
         
-        Medium["⟡ medium stakes\nwork communications\nfamily decisions, health research"] --> MediumQuality["→ \"good enough\" = \naccurate + appropriate"]
+        Medium>⟡ medium stakes<br/>work communications<br/>family decisions, health research] --> MediumQuality>→ good enough =<br/>accurate + appropriate]
         
-        High["⟡ high stakes\nclient deliverables, medical decisions\nfinancial planning, legal matters"] --> HighQuality["→ \"good enough\" = \nexpert-level verification"]
+        High>⟡ high stakes<br/>client deliverables, medical decisions<br/>financial planning, legal matters] --> HighQuality>→ good enough =<br/>expert-level verification]
     end
     
     style Low fill:#c8d9e6,color:#0b1643
