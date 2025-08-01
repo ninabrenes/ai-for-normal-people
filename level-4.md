@@ -1,7 +1,7 @@
 # ● level 4: your first ai conversations
 
 ## navigation
-▲ **phase 2: getting started (1/3)** | ← [level 3: types of ai and when to use each](level%203:%20types%20of%20ai%20and%20when%20to%20use%20each.md) | → [level 5: finding your ai opportunities](level%205:%20finding%20your%20ai%20opportunities.md)
+▲ **phase 2: getting started (1/3)** | ← [level 3: types of ai and when to use each](level-3.md) | → [level 5: finding your ai opportunities](level-5.md)
 
 ## what you'll learn
 
