@@ -439,4 +439,4 @@ understanding ai's memory capabilities and token-by-token generation helps you s
 
 you understand how to have effective ai conversations. now discover the specific opportunities where ai can make the biggest difference in your work and life.
 
-→ **next**: [level 5: finding your ai opportunities](level%205:%20finding%20your%20ai%20opportunities.md)
+→ **next**: [level 5: finding your ai opportunities](leve-5.md)
