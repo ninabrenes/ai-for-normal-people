@@ -35,21 +35,21 @@ aside from being a goofy weirdo, i'm a self-learner, systems thinker, and curren
 
 ### ◐ phase 1: understanding ai (3 levels)
 *build solid foundation of how ai works*
-- ○ [level 1: how ai actually works](level%201:%20how%20ai%20actually%20works.md)
-- ◐ [level 2: ai knowledge and limitations](level%202:%20ai%20knowledge%20and%20limitations.md)  
-- ◐ [level 3: types of ai and when to use each](level%203:%20types%20of%20ai%20and%20when%20to%20use%20each.md)
+- ○ [level 1: how ai actually works](level%201%20how%20ai%20actually%20works.md)
+- ◐ [level 2: ai knowledge and limitations](level%202%20ai%20knowledge%20and%20limitations.md)  
+- ◐ [level 3: types of ai and when to use each](level%203%20types%20of%20ai%20and%20when%20to%20use%20each.md)
 
 ### ● phase 2: getting started (3 levels)
 *your first successful ai interactions*
-- ● [level 4: your first ai conversations](level%204:%20your%20first%20ai%20conversations.md)
-- ● [level 5: finding your ai opportunities](level%205:%20finding%20your%20ai%20opportunities.md)
-- ● [level 6: developing ai quality standards](level%206:%20developing%20ai%20quality%20standards.md)
+- ● [level 4: your first ai conversations](level%204%20your%20first%20ai%20conversations.md)
+- ● [level 5: finding your ai opportunities](level%205%20finding%20your%20ai%20opportunities.md)
+- ● [level 6: developing ai quality standards](level%206%20developing%20ai%20quality%20standards.md)
 
 ### ● phase 3: building real skills (3 levels)
 *advanced competence and integration*
-- ● [level 7: the 5 essential ai skills](level%207:%20the%205%20essential%20ai%20skills.md)
-- ● [level 8: advanced ai workflows](level%208:%20advanced%20ai%20workflows.md)
-- ● [level 9: staying human-centered and growing forward](level%209:%20staying%20human-centered%20and%20growing%20forward.md)
+- ● [level 7: the 5 essential ai skills](level%207%20the%205%20essential%20ai%20skills.md)
+- ● [level 8: advanced ai workflows](level%208%20advanced%20ai%20workflows.md)
+- ● [level 9: staying human-centered and growing forward](level%209%20staying%20human-centered%20and%20growing%20forward.md)
 
 • • •
 
