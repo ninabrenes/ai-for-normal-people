@@ -25,7 +25,7 @@ graph LR
         A>⟡ individual tools] --> B>→ one task at a time<br/>manual handoffs<br/>repetitive prompting]
     end
     
-    subgraph Advanced[↳ ai orchestration]  
+    subgraph Advanced[↳ ai orchestration]
         C>⟡ connected workflows] --> D>→ multi-step automation<br/>intelligent handoffs<br/>context preservation]
     end
     
