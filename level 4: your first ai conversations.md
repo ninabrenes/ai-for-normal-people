@@ -17,15 +17,25 @@ you've picked your ai tool. the difference between useful and frustrating result
 bad ai conversations? you'll spend 20 minutes going back and forth and still get something generic. good conversations? you get exactly what you need in 2-3 tries.
 
 ```mermaid
-graph LR
-    subgraph Poor["Poor Conversations"]
-        A["Vague Request"] --> B["Generic Response"] --> C["Confusion"] --> D["Mediocre Result"]
+flowchart TD
+    subgraph poor ["Poor Conversations"]
+        direction LR
+        A[Vague Request] --> B[Generic Response] 
+        B --> C[Confusion]
+        C --> D[Mediocre Result]
     end
     
-    subgraph Good["Good Conversations"]  
-        E["Clear Context"] --> F["Useful Response"] --> G["Quick Refinement"] --> H["Perfect Result"]
+    subgraph good ["Good Conversations"]
+        direction LR
+        E[Clear Context] --> F[Useful Response]
+        F --> G[Quick Refinement] 
+        G --> H[Perfect Result]
     end
     
+    %% Visual separation
+    poor -.->|"vs"| good
+    
+    %% Original color styling
     style A fill:#f2e5e1,color:#0b1643
     style B fill:#f2e5e1,color:#0b1643
     style C fill:#f2e5e1,color:#0b1643
