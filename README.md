@@ -35,21 +35,21 @@ aside from being a goofy weirdo, i'm a self-learner, systems thinker, and curren
 
 ### ◐ phase 1: understanding ai (3 levels)
 *build solid foundation of how ai works*
-- ○ [level 1: how ai actually works](level-1-how-ai-actually-works.md)
-- ◐ [level 2: ai knowledge and limitations](level-2-ai-knowledge-and-limitations.md)  
-- ◐ [level 3: types of ai and when to use each](level-3-types-of-ai-and-when-to-use-each.md)
+- ○ [level 1: how ai actually works](level-1:-how-ai-actually-works.md)
+- ◐ [level 2: ai knowledge and limitations](level-2:-ai-knowledge-and-limitations.md)  
+- ◐ [level 3: types of ai and when to use each](level-3:-types-of-ai-and-when-to-use-each.md)
 
 ### ● phase 2: getting started (3 levels)
 *your first successful ai interactions*
-- ● [level 4: your first ai conversations](level-4-your-first-ai-conversations.md)
-- ● [level 5: finding your ai opportunities](level-5-finding-your-ai-opportunities.md)
-- ● [level 6: developing ai quality standards](level-6-developing-ai-quality-standards.md)
+- ● [level 4: your first ai conversations](level-4:-your-first-ai-conversations.md)
+- ● [level 5: finding your ai opportunities](level-5:-finding-your-ai-opportunities.md)
+- ● [level 6: developing ai quality standards](level-6:-developing-ai-quality-standards.md)
 
 ### ● phase 3: building real skills (3 levels)
 *advanced competence and integration*
-- ● [level 7: the 5 essential ai skills](level-7-the-5-essential-ai-skills.md)
-- ● [level 8: advanced ai workflows](level-8-advanced-ai-workflows.md)
-- ● [level 9: staying human-centered and growing forward](level-9-staying-human-centered-and-growing-forward.md)
+- ● [level 7: the 5 essential ai skills](level-7:-the-5-essential-ai-skills.md)
+- ● [level 8: advanced ai workflows](level-8:-advanced-ai-workflows.md)
+- ● [level 9: staying human-centered and growing forward](level-9:-staying-human-centered-and-growing-forward.md)
 
 • • •
 
