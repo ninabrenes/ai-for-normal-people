@@ -31,7 +31,7 @@ aside from being a goofy weirdo, i'm a self-learner, systems thinker, and curren
 
 ### ○ getting started
 - [ai basics](ai_basics.md) - what ai is, where it came from, why now
-- [learning approach]([learning_approach.md](https://github.com/ninabrenes/ai-for-normal-people/blob/0abffac274a4662364d9a76547b270e1c88de98f/learning%20approach.md)) - how to learn ai effectively
+- [learning approach](learning_approach.md) - how to learn ai effectively
 
 ### ◐ phase 1: understanding ai (3 levels)
 *build solid foundation of how ai works*
