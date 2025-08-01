@@ -22,11 +22,11 @@ most people use ai like individual tools - ask chatgpt a question, generate an i
 %%{init: {'theme':'base', 'themeVariables': { 'primaryColor': '#0b1643', 'primaryTextColor': '#ffffff', 'lineColor': '#6a8280'}}}%%
 graph LR
     subgraph Simple[↳ simple ai use]
-        A[⟡ individual tools] --> B[→ one task at a time<br/>manual handoffs<br/>repetitive prompting]
+        A>⟡ individual tools] --> B>→ one task at a time<br/>manual handoffs<br/>repetitive prompting]
     end
     
     subgraph Advanced[↳ ai orchestration]  
-        C[⟡ connected workflows] --> D[→ multi-step automation<br/>intelligent handoffs<br/>context preservation]
+        C>⟡ connected workflows] --> D>→ multi-step automation<br/>intelligent handoffs<br/>context preservation]
     end
     
     style A fill:#f2e5e1,color:#0b1643
