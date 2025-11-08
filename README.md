@@ -6,8 +6,6 @@ by nina brenes
 ## about this guide
 ai is changing how we work, learn, and solve problems. this guide takes you from ai anxiety to ai competence without the technical jargon or overwhelming complexity.
 
-whether you found this through my newsletter [ninagpt: field notes from my ai journey](https://ninaverse.kit.com/36228eea47) or stumbled upon it here on github, you'll learn to use ai confidently and effectively.
-
 this is version 1.0 - i'll update it as ai evolves and as i learn new things.
 
 ## who this is for
@@ -17,7 +15,7 @@ this is version 1.0 - i'll update it as ai evolves and as i learn new things.
 → people who want to use ai while staying human-centered
 
 ## who am i?
-aside from being a goofy weirdo, i'm a self-learner, systems thinker, and currently working as an ai operations consultant. i'm also exploring writing as therapy. this guide represents everything i wish i'd known when i started learning ai as a non-technical person.
+aside from being a goofy weirdo, i'm a self-learner, systems thinker, and a normal person just trying to make sense of ai.
 
 ## how to use this guide
 **read sequentially** - each level builds on previous ones  
@@ -67,7 +65,7 @@ aside from being a goofy weirdo, i'm a self-learner, systems thinker, and curren
 **metacognition** - notice how your thinking about ai changes
 
 ## stay connected
-join [ninagpt: field notes from my ai journey](https://ninaverse.kit.com/36228eea47) for:
+join [hermit diaries> field notes from nocturnal musings](https://ninaverse.blog/) for:
 - guide updates and new content
 - weekly ai insights for non-technical people
 - community discussions and questions
