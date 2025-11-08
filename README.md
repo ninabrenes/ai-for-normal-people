@@ -51,12 +51,6 @@ aside from being a goofy weirdo, i'm a self-learner, systems thinker, and a norm
 
 • • •
 
-## what makes this guide different
-**human-centered approach** - ai as a tool to enhance human capability in work and life, not replace it  
-**practical focus** - real examples from professional and personal contexts  
-**progressive learning** - concepts build naturally from basic to advanced  
-**confidence building** - starts with ai you already use successfully in daily life  
-**current and accurate** - updated with 2025 ai capabilities for work and personal use
 
 ## learning tools
 **active recall** - explain concepts to someone else without looking  
