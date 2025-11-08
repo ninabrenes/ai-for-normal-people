@@ -65,10 +65,7 @@ aside from being a goofy weirdo, i'm a self-learner, systems thinker, and a norm
 **metacognition** - notice how your thinking about ai changes
 
 ## stay connected
-join [hermit diaries> field notes from nocturnal musings](https://ninaverse.blog/) for:
-- guide updates and new content
-- weekly ai insights for non-technical people
-- community discussions and questions
+join [hermit diaries> field notes from nocturnal musings](https://ninaverse.blog/) for my weekly notes wtih podcasts, articles, and cool stuff i find. 
 
 ## support this work
 if this guide helps you, consider [buying me a coffee](https://buymeacoffee.com/ninabrenes)
