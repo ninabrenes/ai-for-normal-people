@@ -41,7 +41,7 @@ graph LR
 
 ## → the human oversight framework
 
-2025 research shows that ai still requires human oversight, but the type and intensity should match the risk level.
+Research continues to show that AI still requires human oversight, but the type and intensity should match the risk level.
 
 ### ※ oversight levels by risk
 
