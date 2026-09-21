@@ -12,9 +12,9 @@
 
 you understand ai conversations and quality control. now master the core competencies that will make you valuable in an ai-augmented workplace.
 
-## → the ai skills landscape of 2025
+## → the ai skills landscape
 
-recent research shows that 50% of recruiters now screen for ai literacy in all candidates, regardless of job function. but what exactly are they looking for?
+AI literacy is increasingly relevant across roles, but what exactly should people learn?
 
 the answer isn't just technical skills. it's a combination of human-ai collaboration abilities that create what experts call "superagency" - humans empowered by ai to achieve far more than either could alone.
 
@@ -309,7 +309,7 @@ these five skills multiply each other's value. good prompt engineering makes cri
 
 mastering these five skills transforms you from someone who uses ai tools to someone who orchestrates ai systems to solve meaningful problems. you become what researchers call "ai-native" - naturally thinking in terms of human-ai collaboration rather than human-vs-ai competition.
 
-the professionals who thrive in 2025 and beyond won't be those who know the most about ai technology. they'll be those who can combine ai capabilities with uniquely human strengths like creativity, empathy, and strategic thinking.
+the professionals who thrive as AI changes work won't necessarily be those who know the most about AI technology. they'll be those who can combine ai capabilities with uniquely human strengths like creativity, empathy, and strategic thinking.
 
 these skills compound over time. small improvements in each area create exponential improvements in your overall ai effectiveness.
 
