@@ -16,7 +16,7 @@ you've mastered individual ai skills. now learn to orchestrate multiple ai capab
 
 most people use ai like individual tools - ask chatgpt a question, generate an image with dall-e, automate a task with zapier. but the real power comes from connecting these capabilities into intelligent workflows.
 
-2025 research shows 45% of businesses now use ai to automate multi-step workflows, with the ai workflow market projected to reach $10.9 billion by 2025.
+AI adoption is moving from isolated experiments toward multi-step workflows, but successful implementation still depends on clear ownership, guardrails, and measurement.
 
 ```mermaid
 %%{init: {'theme':'base', 'themeVariables': { 'primaryColor': '#0b1643', 'primaryTextColor': '#ffffff', 'lineColor': '#6a8280'}}}%%
@@ -77,7 +77,7 @@ intelligent workflows don't just automate - they adapt. unlike rigid rule-based 
 
 ## → workflow patterns that work
 
-based on 2025 implementations, here are the most effective workflow patterns:
+based on common implementations, here are useful workflow patterns:
 
 ### ⌘ the research-to-insight pipeline
 
