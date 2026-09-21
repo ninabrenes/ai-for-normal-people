@@ -417,7 +417,7 @@ understanding ai's memory capabilities and token-by-token generation helps you s
 **→ front**: when should you start a new conversation vs. continue the current one?  
 **⟡ back**: start fresh when switching topics, getting confused responses, or after 15+ exchanges. continue when making progress and building on previous responses.
 
-**→ front**: how does chatgpt memory work in 2025?  
+**→ front**: how does chatgpt memory work today?  
 **⟡ back**: saved memories (explicit) + chat history (automatic reference to past conversations for all users)
 
 **→ front**: what indicates ai has lost context?  
