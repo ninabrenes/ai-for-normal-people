@@ -59,7 +59,7 @@ timeline
           : big data + powerful computers + new techniques
     2020s : ⟡ ai becomes conversational
           : chatgpt launches, ai goes mainstream
-    2025  : → you are here
+    2026  : → you are here
           : learning to work and live with ai effectively
 ```
 
@@ -101,9 +101,9 @@ understanding ai's current capabilities helps set realistic expectations:
 
 **current ai - specialists:** excellent at specific tasks like writing or image creation, but each tool does one thing well
 
-**ai agents - starting now:** can take real-world actions like booking flights, scheduling meetings, completing multi-step tasks
+**ai agents and action-taking systems:** can sometimes take real-world actions like booking flights, scheduling meetings, and completing multi-step tasks — with permissions, guardrails, and human oversight
 
-**agi - artificial general intelligence:** future ai with human-level intelligence across all domains
+**agi - artificial general intelligence:** a hypothetical form of AI with broad, human-level capability across many domains
 
 • • •
 
@@ -164,7 +164,7 @@ ai isn't magic - it's powerful pattern recognition that became accessible to reg
 ---
 
 **sources:**
-- ai development: [stanford ai index 2025](https://aiindex.stanford.edu/) | [mit ai overview](https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained)
+- ai development: [stanford ai index](https://aiindex.stanford.edu/) | [mit ai overview](https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained)
 - current ai capabilities: [anthropic ai research](https://www.anthropic.com/research) | [openai research](https://openai.com/research/)
 
 ---
