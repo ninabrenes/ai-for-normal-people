@@ -16,7 +16,7 @@ you've mastered ai conversations. now discover where ai can actually save you ti
 
 most people ask "what can ai help me with?" better question: "what takes up my time and energy that shouldn't?"
 
-ai isn't replacing jobs or life activities - it's replacing tasks within them. recent research shows ai could handle routine tasks across work and personal life, freeing you up for what actually matters.
+ai isn't replacing jobs or life activities - it's replacing tasks within them. AI can often assist with routine tasks across work and personal life, freeing you up for what actually matters.
 
 ```mermaid
 %%{init: {'theme':'base', 'themeVariables': { 'primaryColor': '#0b1643', 'primaryTextColor': '#ffffff', 'lineColor': '#6a8280'}}}%%
@@ -393,7 +393,7 @@ consider how your ai use affects family members, colleagues, and friends. commun
 
 the biggest ai opportunities aren't always the most obvious ones. they're found in the routine tasks that eat up your time and energy without creating proportional value - whether that's work projects, family coordination, health management, or personal development.
 
-successful ai integration in 2025 means looking at your whole life, not just your job. ai can help you become more efficient at work so you have more energy for family. it can streamline household management so you have more time for hobbies. it can optimize your health routines so you feel better in all areas of life.
+successful AI integration means looking at your whole life, not just your job. ai can help you become more efficient at work so you have more energy for family. it can streamline household management so you have more time for hobbies. it can optimize your health routines so you feel better in all areas of life.
 
 focus on freeing yourself from routine tasks so you can spend more time on what actually matters to you.
 
