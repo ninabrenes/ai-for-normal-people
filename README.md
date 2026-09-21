@@ -6,7 +6,7 @@ by nina brenes
 ## about this guide
 ai is changing how we work, learn, and solve problems. this guide takes you from ai anxiety to ai competence without the technical jargon or overwhelming complexity.
 
-this is version 1.0 - i'll update it as ai evolves and as i learn new things.
+this is version 1.1 — refreshed september 2026. ai changes quickly, so this guide focuses on durable skills and principles rather than one specific tool.
 
 ## who this is for
 → non-technical people who want practical ai skills for work and life  
@@ -59,7 +59,7 @@ aside from being a goofy weirdo, i'm a self-learner, systems thinker, and a norm
 **metacognition** - notice how your thinking about ai changes
 
 ## stay connected
-join [hermit diaries> field notes from nocturnal musings](https://ninaverse.blog/) for my weekly notes wtih podcasts, articles, and cool stuff i find. 
+join [hermit diaries — field notes from nocturnal musings](https://ninaverse.blog/) for my weekly notes with podcasts, articles, and cool stuff i find. 
 
 ## support this work
 if this guide helps you, consider [buying me a coffee](https://buymeacoffee.com/ninabrenes)
@@ -69,6 +69,6 @@ this work is licensed under creative commons attribution 4.0. share freely with 
 
 ---
 → star this repository if you find it helpful  
-→ version 1.0 | updated july 2025
+→ version 1.1 | refreshed september 2026
 
 pura vida, nina :)
