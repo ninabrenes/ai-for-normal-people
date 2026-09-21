@@ -172,7 +172,9 @@ if the answer to any question is no, stick with what you have.
 
 ## → understanding pricing reality
 
-### ※ what this actually costs (verified july 2025)
+### ※ what this actually costs
+
+> **Pricing note:** plans, prices, limits, and feature availability change frequently. Treat the examples below as orientation only and check each provider's official pricing page before subscribing.
 
 **free forever options:**
 - chatgpt basic, claude basic, canva basic, many building tools
@@ -217,7 +219,7 @@ understanding limitations helps you make better decisions:
 
 • • •
 
-## → essential ai tools for 2025
+## → essential ai tools
 
 here's a focused reference of the most useful ai tools right now, organized by type:
 
