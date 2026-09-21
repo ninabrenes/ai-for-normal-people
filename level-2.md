@@ -111,13 +111,13 @@ since ai builds responses piece by piece without planning ahead, conversations c
 
 ## → current ai memory capabilities
 
-**2025 update:** ai memory has evolved significantly and now works across conversations:
+**current note:** memory and project-context features have evolved significantly, but availability varies by tool, plan, region, and account:
 
 **chatgpt** now has two types of memory:
 - **saved memories:** details you explicitly ask it to remember
 - **chat history:** references past conversations automatically (for all users now)
 
-**claude** is developing similar memory features, currently available in claude 4 when given access to local files.
+**claude** and other assistants offer related memory or project-context features. Check each tool's current documentation and settings before relying on them.
 
 **what this means:** ai can now maintain context across conversations, but you control what it remembers and can delete memories anytime.
 
